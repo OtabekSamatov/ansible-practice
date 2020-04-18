@@ -4,4 +4,4 @@
   - name: Say Hello
     package:
     name: "{{package_name}}"
-    state: installed 
+    state: "{{state}}" 
